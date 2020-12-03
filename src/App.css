@@ -32,7 +32,7 @@
 }
 #recipeStyle ol li {
 	padding: 10px 0px;
-	list-style: outside;
+	list-style: url();
 }
 .calorieStyle {
 	display: flex;
